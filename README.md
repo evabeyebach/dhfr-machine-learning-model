@@ -17,7 +17,7 @@ Task 2: Build Machine Learning Model (classification and cross validation) > to 
    
 Task 3: Deploy Model as RDS File and make prediction
 
-Task 4: Speed up Model using parallel processing
+Task 4: Speed up Model Random Forest Model using parallel processing
 
 ## Conclusion
 Both the Classification Model and the Cross Validation Model had a overall good prediction on "active" or "inactive" molecules.
