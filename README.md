@@ -1,4 +1,4 @@
-# DHFR Classification Model
+# DHFR Machine Learning Model
 ## Introduction
 We are using the dhfr (Dihydrofolate Reductase Inhibitors Data) data set. In this data set Sutherland and Weaver (2004) discuss QSAR models for dihydrofolate reductase (DHFR) inhibition. It contains values for 325 compounds which describes drug molecules. For each compound, 228 molecular descriptors, whichtells about physical/chemical properties of each drug molecule, have been calculated. Additionally, each samples is designated as "active" or "inactive". Active means that the drug molecule is efficient in exerting the desirable binding effects toward dhfr protein. Dhfr protein is important for having anti-malarial protein.
 
