@@ -17,3 +17,10 @@ Task 2: Build Machine Learning Model (classification and cross validation) > to 
    
 Task 3: Deploy Model as RDS File and make prediction
 
+Task 4: Speed up Model using parallel processing
+
+## Conclusion
+Both the Classification Model and the Cross Validation Model had a overall good prediction on "active" or "inactive" molecules.
+When testing the classification Model, from 40 actives, 2 were predicted as inactive and from 24 inactives, 2 were predicted to be active. Accuracy was  0.9219 and Sensitivity : 0.9500, Specificity : 0.8750. The cross-validation Model predicted from 163 actives, 1 as inactive and from 98 inactives, 1 as active. Accuracy : 0.9923, Sensitivity : 0.9939 and     Specificity : 0.9898.
+
+
